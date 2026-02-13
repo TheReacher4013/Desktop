@@ -1,0 +1,48 @@
+Topic: 
+Focus Keyword:  
+Secondary keyword:
+
+
+Requirements:
+Write a 1200-word blog on the given topic.
+Write the focus keyword in the h2 tag
+Include the focus keyword precisely 10 times in the article.
+Include the secondary keyword precisely 10 times in the article.
+Write the first line in the introduction with the focus keyword.
+Include headings with proper formatting, and ensure that at least one heading contains the focus keyword.
+Add a detailed 10 Pro Tips section with actionable advice. 
+Include an "FAQs" section with at least one question containing the focus keyword. Write five FAQs. FAQ 2 3 4 5 must be without the focus keyword
+Conclude the blog with a summary of the key points.
+Ensure the blog is written in a human-like, engaging, and easy-to-read style.
+Highlight all instances of the focus keyword in bold
+Ans to all FAQ must be 4 lines, and I want to target the keyword only 5 times as per instructions, and remove unreadable hard AI words
+Do not promote other brands or websites
+Only promote https://pledgemyorgans.com and write the blog based solely on the information provided on that website
+Hyperlink the website where needed.
+Do not use em dashes (—).
+
+
+
+
+make the title in question and it should contain positive negative combination with power keyword
+remove summary and add their conclusion
+10 pro tip and 5 faqs
+format
+title
+meta description
+image related to this should include focus keyword in the image
+h2 tag with focus keyword
+h3 tag with secondary keyword
+pro tips
+faqs
+conclusion
+
+
+
+expand the meta description
+expand each point of the pro tip and each point of faqs
+the focus keyword should be in title, meta description once, h2 tag, pro tip once, faqs once, conclusion, 
+the secondary keyword should be in h3 tag, pro tip once, faqs once, conclusion, h4 tag
+
+
+
